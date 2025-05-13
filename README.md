@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm **Waleed Khan**, a passionate **Full Stack Developer** with over 2 years of experience in building dynamic and responsive web applications using **MERN** and **MEAN** stacks.
+👋 Hi there! I'm **Waleed Khan**, a passionate **Full Stack Developer** with over 2 years of experience in building dynamic and responsive web applications using **MERN** stack.
 
 I specialize in:
 
