@@ -35,7 +35,7 @@ I enjoy turning ideas into reality using clean, maintainable code. I'm passionat
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Waleedkhan-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com?user=Waleedkhan-dev&theme=dark&hide_border=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Waleedkhan-dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Waleedkhan-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
